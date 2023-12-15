@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umarshaikh15
-- 👀 I’m interested in Coding languages such as Java ,HTML-CSS,jdbc,sql
+- 👀 I’m interested in Coding languages such as Java ,HTML,CSS,
 - 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...us613560@gmail.com
